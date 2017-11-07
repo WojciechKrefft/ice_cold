@@ -8,6 +8,8 @@ Uzupełniajcie o swoje sugestie :)
 3. Aktualizujemy na bieżąco GitHub, żeby nie duplikować zadań.
 4. Piszemy o napotkanych problemach, może ktoś inny zna dobre rozwiązanie.
 5. Naumiemy się dużo i Wygrywamy!!!!!!!!
+6. Zdzwaniamy się raz na 2 tygodnie (częstotliowść do ustalenia), żeby przegadać listę zadań.
+7. Kierownik projektu (Krasoń?) ma decydujący głos co do metodologi i przydziału zadań (w razie niejasności).
 
 ## Potrzebny software
 1. Python (polecana dystrybucja Anacondy)
